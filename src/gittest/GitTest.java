@@ -17,7 +17,7 @@ package gittest;
 
 /**
  *
- * @author migue
+ *THis is my first git update
  */
 public class GitTest {
 
